@@ -1,9 +1,10 @@
-/*
- * Graph.cpp
- *
- *  Created on: 24 dic. 2020
- *      Author: alejandro
- */
+//============================================================================
+// Name        : Graph.cpp
+// Author      : Alejandro Fernández Camello
+// Version     : 1.0
+// Copyright   : GPL-3.0
+// Description : Implementation of a graph with the methods associated with it
+//============================================================================
 
 #include "Graph.h"
 
