@@ -6,3 +6,5 @@ Heap
 Union-Find Disjoint Set(UFDS)
 
 Fenwick Tree
+
+Graph
