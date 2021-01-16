@@ -1,9 +1,10 @@
-/*
- * Graph.h
- *
- *  Created on: 24 dic. 2020
- *      Author: alejandro
- */
+//============================================================================
+// Name        : Graph.h
+// Author      : Alejandro Fernández Camello
+// Version     : 1.0
+// Copyright   : GPL-3.0
+// Description : Interface for a graph with the methods associated with it
+//============================================================================
 
 #ifndef GRAPH_H_
 #define GRAPH_H_
