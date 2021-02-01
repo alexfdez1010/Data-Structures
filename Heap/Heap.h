@@ -61,13 +61,13 @@ public:
 	//Get the top element of the heap
 	//PRE: {!empty()}
 	//RETURN: {Returns the top element of the heap}
-	//COMPLEXITY: O(log n) SoP : size()
+	//COMPLEXITY: O(1) SoP : size()
 	TYPE top();
 
 	//Get the top element of the heap
 	//PRE: {!empty()}
 	//RETURN: {Returns the top element of the heap in ele}
-	//COMPLEXITY: O(log n) SoP : size()
+	//COMPLEXITY: O(1) SoP : size()
 	void top(TYPE &ele);
 
 	//Push ele in the heap keeping the order
